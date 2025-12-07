@@ -53,7 +53,7 @@ After calculating Age + GPA + Experience, the program produces a final result:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/imanalp/ScoreEvaluator.git
+https://github.com/imanalp/SocoreEvaluator-IfElse
 2️⃣ Open in Visual Studio
 
 Open the .sln file.
